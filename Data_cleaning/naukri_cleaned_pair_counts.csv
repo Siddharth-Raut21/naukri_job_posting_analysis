@@ -1,0 +1,1805 @@
+skills_1,skills_2,count
+data analysis, r,16762
+machine learning, r,14743
+r, sql,9871
+data science, r,9788
+data science, machine learning,8227
+data mining, r,5411
+agile, r,5352
+machine learning, sql,5230
+data analytics, r,5080
+python, r,4935
+data analysis, machine learning,4812
+business analysis, r,4786
+excel, r,4270
+data science, sql,4096
+data analysis, sql,3925
+project management, r,3924
+artificial intelligence, machine learning,3617
+artificial intelligence, r,3545
+data analysis, data science,3440
+data science, python,3358
+data mining, data science,3148
+data modeling, r,3085
+data mining, machine learning,3007
+data visualization, r,2615
+business intelligence, r,2448
+machine learning, python,2425
+artificial intelligence, data science,2376
+gcp, r,2178
+python, sql,2146
+data analytics, machine learning,2079
+power bi, r,2022
+data analytics, data science,1997
+r, stakeholder management,1951
+data modeling, sql,1911
+artificial intelligence, data analysis,1897
+nosql, r,1751
+gcp, machine learning,1635
+deep learning, r,1627
+data mining, sql,1622
+agile, data analysis,1603
+data analysis, data mining,1529
+deep learning, machine learning,1526
+data analysis, data modeling,1506
+machine learning, nosql,1480
+data visualization, machine learning,1470
+data mining, python,1439
+data analysis, data analytics,1375
+oracle, r,1370
+data analysis, excel,1365
+data analysis, data visualization,1351
+sql, stakeholder management,1340
+data analysis, project management,1311
+machine learning, stakeholder management,1299
+data science, stakeholder management,1270
+data mining, stakeholder management,1264
+agile, sql,1259
+r, scrum,1217
+agile, machine learning,1188
+r, scala,1183
+predictive modeling, r,1182
+data governance, r,1166
+data analysis, python,1147
+data analytics, data mining,1129
+artificial intelligence, data analytics,1123
+javascript, r,1069
+data science, deep learning,1051
+artificial intelligence, data visualization,1048
+data modeling, machine learning,1043
+data analytics, python,1042
+r, tableau,1037
+artificial intelligence, python,1008
+power bi, python,998
+azure, r,981
+machine learning, natural language processing,948
+agile, business analysis,943
+mysql, r,943
+agile, scrum,936
+sql, tableau,887
+data science, power bi,876
+r, statistical modeling,865
+data analysis, predictive modeling,863
+nlp, r,863
+business intelligence, data analysis,851
+data modeling, data science,850
+data science, gcp,845
+r, spark,843
+data warehousing, r,836
+power bi, sql,832
+nosql, sql,831
+data mining, predictive modeling,805
+c++, r,801
+machine learning, nlp,800
+nlp, python,796
+data analysis, data governance,795
+data science, nlp,789
+data modeling, python,776
+r, ssis,773
+aws, r,766
+data science, statistical modeling,765
+machine learning, scala,764
+machine learning, statistical modeling,764
+data science, nosql,762
+business analysis, data analysis,753
+data science, predictive modeling,753
+data science, excel,750
+deep learning, gcp,749
+excel, machine learning,736
+data governance, data visualization,721
+data analysis, tableau,715
+data governance, machine learning,697
+natural language processing, r,695
+excel, statistical modeling,680
+data mining, nlp,675
+nosql, scala,674
+data analytics, nlp,671
+data analytics, data visualization,670
+data analysis, power bi,668
+business analysis, project management,660
+artificial intelligence, data governance,658
+gcp, scala,644
+gcp, nosql,643
+r, statistics,623
+business intelligence, sql,616
+r, team management,611
+data science, natural language processing,602
+data analytics, sql,598
+agile, project management,598
+data science, data visualization,581
+data engineering, r,570
+artificial intelligence, natural language processing,549
+excel, sql,535
+data mining, data visualization,522
+etl, r,479
+machine learning, tableau,479
+artificial intelligence, sql,472
+r, regression,472
+power bi, tableau,468
+data visualization, sql,464
+data science, tableau,464
+computer vision, r,462
+java, r,460
+communication skills, r,457
+leadership, r,457
+data analysis, natural language processing,453
+azure, sql,412
+natural language processing, sql,410
+excel, power bi,408
+aiml, artificial intelligence,397
+r, requirement gathering,396
+aiml, machine learning,390
+data analytics, excel,385
+business intelligence, data modeling,381
+artificial intelligence, data mining,380
+data analysis, oracle,378
+aiml, data science,376
+business analysis, sql,374
+artificial intelligence, tableau,374
+oracle, sql,371
+aiml, natural language processing,365
+hadoop, r,361
+aiml, sql,361
+python, spark,354
+aiml, data analysis,352
+aiml, tableau,350
+data visualization, power bi,350
+natural language processing, tableau,350
+data analytics, power bi,346
+c++, machine learning,344
+business intelligence, power bi,343
+spark, sql,340
+aws, python,339
+computer vision, machine learning,329
+data warehousing, sql,328
+devops, r,315
+r, ssrs,314
+agile, data analytics,308
+business analysis, excel,301
+deep learning, python,298
+data analysis, ssis,297
+postgresql, r,293
+aws, sql,291
+etl, sql,290
+azure, python,282
+data analysis, mysql,278
+agile, data modeling,278
+data analysis, data warehousing,277
+data modeling, power bi,273
+data analytics, data modeling,272
+business intelligence, machine learning,269
+agile, business intelligence,264
+data modeling, data warehousing,263
+business intelligence, data mining,261
+business analysis, scrum,261
+machine learning, predictive modeling,258
+excel, project management,256
+artificial intelligence, deep learning,255
+data analysis, team management,253
+data engineering, python,253
+python, tableau,252
+sql, ssis,249
+deep learning, natural language processing,248
+gcp, sql,247
+excel, tableau,245
+business intelligence, data analytics,245
+data engineering, sql,242
+natural language processing, python,238
+business analysis, requirement gathering,238
+data analysis, statistics,237
+machine learning, statistics,235
+machine learning, regression,231
+azure, power bi,228
+ssis, ssrs,227
+data visualization, tableau,227
+business intelligence, data visualization,226
+data analysis, javascript,225
+project management, sql,225
+databricks, r,223
+hadoop, spark,222
+data modeling, data visualization,220
+azure, spark,220
+azure, databricks,210
+business intelligence, project management,209
+c++, data analysis,208
+data analysis, scrum,204
+data analysis, gcp,203
+mysql, sql,201
+scala, spark,200
+qlikview, r,196
+business intelligence, excel,192
+r, vba,191
+business analysis, business intelligence,190
+data warehousing, power bi,188
+excel, python,187
+computer vision, deep learning,186
+microstrategy, r,183
+data analytics, project management,182
+aws, spark,181
+data analysis, stakeholder management,181
+machine learning, power bi,180
+agile, data science,179
+business intelligence, ssis,175
+mongodb, r,175
+r, sql server,175
+machine learning, project management,174
+scala, sql,173
+agile, excel,172
+data engineering, spark,171
+data analytics, data warehousing,171
+agile, javascript,170
+data analytics, tableau,168
+machine learning, mysql,167
+data visualization, python,167
+problem solving, r,165
+r, snowflake,164
+mysql, oracle,162
+hive, r,162
+project management, scrum,160
+javascript, sql,157
+data visualization, excel,157
+agile, oracle,156
+etl, python,156
+data science, statistics,156
+business intelligence, tableau,155
+aws, azure,155
+business intelligence, data warehousing,154
+aws, machine learning,153
+gcp, python,152
+aws, data engineering,149
+project management, stakeholder management,147
+excel, vba,147
+data modeling, project management,146
+data mining, data modeling,143
+python, regression,141
+artificial intelligence, computer vision,141
+dax, power bi,141
+business intelligence, oracle,140
+data scientist, r,138
+python, statistics,137
+data analytics, gcp,136
+agile, stakeholder management,136
+data science, spark,136
+hive, spark,135
+azure, data engineering,134
+agile, data mining,132
+azure, machine learning,131
+machine learning, spark,129
+agile, mysql,129
+java, python,129
+hadoop, hive,129
+python, scala,129
+data modeling, ssis,128
+business analysis, power bi,128
+business intelligence, data science,128
+mysql, postgresql,127
+javascript, machine learning,126
+javascript, mysql,126
+scrum, sql,126
+dax, r,126
+business analysis, stakeholder management,125
+data modeling, tableau,124
+business analysis, data visualization,124
+data warehousing, etl,123
+oracle, project management,123
+agile, gcp,122
+sql, ssrs,122
+databricks, spark,120
+java, sql,119
+agile, data visualization,118
+agile, ssis,118
+data mining, excel,116
+databricks, sql,116
+sql, statistics,116
+computer vision, natural language processing,116
+c++, data mining,116
+aws, etl,116
+aws, gcp,115
+computer vision, data science,115
+agile, python,114
+etl, power bi,113
+data science, regression,113
+project management, team management,113
+hadoop, sql,112
+data engineering, etl,111
+azure, data analytics,111
+data analysis, ssrs,110
+deep learning, sql,109
+power bi, ssis,109
+predictive modeling, python,109
+predictive modeling, sql,108
+azure, etl,108
+aws, data science,107
+data modeling, oracle,107
+snowflake, sql,105
+business analysis, machine learning,105
+data analytics, spark,105
+computer vision, python,104
+data science, project management,104
+data modeling, mysql,104
+data visualization, gcp,104
+business analysis, data modeling,103
+business analysis, oracle,103
+business intelligence, python,102
+r, time series,100
+communication skills, excel,100
+power bi, ssrs,99
+azure, data modeling,97
+predictive modeling, regression,96
+data analysis, leadership,96
+business analysis, python,95
+data visualization, project management,95
+hadoop, python,95
+artificial intelligence, c++,94
+c++, python,94
+c++, data science,94
+business intelligence, ssrs,94
+agile, devops,93
+data governance, sql,93
+data analysis, regression,93
+sql, sql server,92
+mongodb, nosql,91
+javascript, python,91
+agile, power bi,91
+agile, artificial intelligence,90
+postgresql, sql,90
+business analysis, communication skills,90
+data warehousing, python,89
+aws, data analytics,89
+leadership, project management,89
+communication skills, data analysis,89
+c++, javascript,88
+azure, devops,87
+agile, azure,87
+data mining, project management,87
+aws, data warehousing,87
+hadoop, scala,87
+data science, hadoop,86
+azure, gcp,86
+aws, data analysis,85
+azure, data warehousing,85
+databricks, python,84
+gcp, spark,84
+business analysis, data analytics,83
+business analysis, leadership,82
+agile, data warehousing,82
+data analysis, scala,82
+dax, sql,82
+azure, data science,82
+business intelligence, mysql,82
+data analysis, deep learning,81
+c++, mysql,80
+data analytics, oracle,80
+data mining, mysql,79
+data modeling, gcp,79
+data scientist, python,78
+c++, sql,78
+hive, sql,78
+data analytics, deep learning,78
+machine learning, scrum,77
+azure, data analysis,77
+data analytics, statistics,77
+data mining, power bi,77
+agile, c++,76
+etl, spark,76
+mysql, python,76
+data analysis, etl,75
+data modeling, excel,75
+data scientist, machine learning,74
+hadoop, machine learning,74
+data warehousing, tableau,73
+power bi, project management,73
+excel, team management,73
+artificial intelligence, data modeling,72
+business analysis, tableau,72
+hive, python,72
+power bi, sql server,71
+data analytics, etl,71
+c++, java,71
+data analytics, scala,71
+data analysis, nosql,71
+data engineering, data modeling,70
+data modeling, etl,70
+data modeling, ssrs,69
+python, statistical modeling,69
+data analysis, spark,68
+data analytics, scrum,68
+business intelligence, c++,68
+regression, sql,68
+data science, java,67
+oracle, python,67
+data analytics, data engineering,67
+data governance, data modeling,66
+nosql, python,66
+oracle, ssis,66
+data mining, oracle,66
+r, waterfall,66
+agile, scala,66
+business intelligence, team management,65
+machine learning, mongodb,65
+data analytics, ssis,65
+java, machine learning,65
+data visualization, data warehousing,65
+data visualization, statistics,65
+data mining, javascript,65
+data analysis, qlikview,65
+data analytics, javascript,64
+data analysis, statistical modeling,64
+communication skills, problem solving,63
+data mining, scala,63
+data analysis, postgresql,63
+natural language processing, nlp,63
+business analysis, data mining,62
+mongodb, sql,62
+data science, data scientist,62
+agile, data governance,62
+kafka, r,62
+hive, scala,62
+machine learning, oracle,61
+data science, devops,61
+oracle, power bi,61
+gcp, hadoop,61
+data analytics, devops,61
+data science, scala,61
+aws, data modeling,61
+java, scala,60
+data modeling, spark,60
+javascript, oracle,60
+aws, power bi,59
+deep learning, spark,59
+data warehousing, ssis,59
+etl, tableau,58
+agile, waterfall,58
+deep learning, nlp,58
+devops, sql,58
+data engineering, power bi,58
+mysql, power bi,57
+data engineering, machine learning,57
+artificial intelligence, power bi,57
+business intelligence, microstrategy,57
+excel, statistics,57
+data engineering, data warehousing,56
+c++, deep learning,56
+azure, scala,56
+agile, requirement gathering,56
+power bi, qlikview,56
+data analysis, hadoop,56
+business analysis, ssis,55
+computer vision, data analysis,55
+devops, machine learning,55
+data mining, deep learning,55
+c++, project management,55
+data analysis, problem solving,55
+data engineering, data science,54
+data modeling, nosql,54
+aiml, r,54
+data analytics, stakeholder management,54
+power bi, vba,54
+data analytics, nosql,54
+data modeling, scala,53
+artificial intelligence, gcp,53
+data analysis, microstrategy,53
+data visualization, etl,53
+agile, spark,53
+data modeling, scrum,53
+data science, mysql,53
+nlp, sql,53
+aws, java,52
+data engineering, scala,52
+data mining, regression,52
+data analysis, data engineering,52
+c++, computer vision,52
+python, snowflake,52
+data modeling, javascript,52
+mysql, nosql,52
+data science, javascript,52
+sql, statistical modeling,51
+agile, team management,50
+data analytics, java,50
+business intelligence, stakeholder management,50
+java, spark,50
+agile, tableau,50
+etl, snowflake,49
+data science, data warehousing,49
+business intelligence, predictive modeling,49
+data mining, natural language processing,49
+data warehousing, spark,49
+javascript, scrum,49
+agile, nosql,48
+machine learning, team management,48
+qlikview, tableau,48
+excel, leadership,48
+data modeling, postgresql,48
+data visualization, deep learning,47
+devops, python,47
+data warehousing, gcp,47
+data analytics, leadership,47
+data visualization, nosql,47
+agile, postgresql,47
+data analytics, predictive modeling,47
+project management, python,46
+data visualization, stakeholder management,46
+data visualization, predictive modeling,46
+data visualization, mysql,46
+aws, deep learning,46
+azure, business intelligence,46
+aws, tableau,46
+excel, problem solving,45
+business intelligence, javascript,45
+data science, scrum,45
+predictive modeling, statistical modeling,45
+deep learning, statistics,45
+gcp, natural language processing,45
+aws, devops,45
+data analytics, hadoop,45
+natural language processing, predictive modeling,44
+mongodb, mysql,44
+data modeling, predictive modeling,44
+microstrategy, sql,44
+data analysis, vba,43
+sql, vba,43
+data visualization, scala,42
+deep learning, predictive modeling,42
+data warehousing, machine learning,42
+hadoop, kafka,42
+artificial intelligence, aws,42
+machine learning, postgresql,42
+agile, java,42
+data mining, gcp,42
+data engineering, databricks,42
+artificial intelligence, java,42
+data science, leadership,41
+project management, ssis,41
+data engineering, gcp,41
+power bi, spark,41
+data engineering, hadoop,41
+data warehousing, scala,41
+artificial intelligence, statistics,40
+mysql, project management,40
+deep learning, regression,40
+data warehousing, oracle,40
+business intelligence, scrum,40
+kafka, spark,40
+agile, deep learning,40
+business analysis, data science,40
+data science, mongodb,39
+data analytics, team management,39
+data science, time series,39
+oracle, postgresql,39
+business intelligence, data governance,39
+requirement gathering, scrum,39
+mysql, ssis,39
+oracle, scrum,39
+artificial intelligence, nlp,39
+aws, scala,39
+etl, ssis,39
+data modeling, deep learning,39
+c++, data modeling,39
+r, r programming,38
+artificial intelligence, excel,38
+agile, aws,38
+data analysis, java,38
+data visualization, scrum,38
+aws, snowflake,38
+data engineering, java,38
+agile, microstrategy,38
+data analytics, data governance,38
+data modeling, qlikview,37
+qlik sense, r,37
+natural language processing, regression,37
+scrum, stakeholder management,37
+c++, scala,37
+r, redshift,37
+machine learning, time series,37
+communication skills, data analytics,37
+azure, natural language processing,37
+java, javascript,37
+kafka, python,37
+data analysis, devops,37
+power bi, stakeholder management,36
+data analysis, mongodb,36
+aws, hadoop,36
+business analysis, team management,36
+nosql, spark,36
+data scientist, nlp,36
+artificial intelligence, azure,36
+power bi, snowflake,35
+mysql, scala,35
+business analysis, devops,35
+data mining, statistical modeling,35
+sql server, ssis,35
+sql, team management,35
+azure, sql server,35
+azure, snowflake,35
+qlikview, sql,35
+power bi, scala,35
+excel, stakeholder management,35
+c++, data visualization,34
+excel, ssis,34
+azure, ssis,34
+data visualization, statistical modeling,34
+data analytics, vba,34
+data science, team management,34
+data governance, data warehousing,34
+leadership, sql,34
+agile, leadership,34
+hadoop, java,34
+data mining, statistics,34
+data analytics, mysql,34
+artificial intelligence, project management,34
+agile, communication skills,33
+azure, tableau,33
+deep learning, power bi,33
+business intelligence, etl,33
+data analytics, qlikview,33
+data mining, data warehousing,33
+artificial intelligence, business intelligence,33
+agile, natural language processing,33
+sql server, ssrs,33
+aws, redshift,32
+data analytics, statistical modeling,32
+aws, nosql,32
+data analytics, ssrs,32
+business intelligence, statistics,32
+business intelligence, gcp,32
+predictive modeling, project management,32
+project management, requirement gathering,32
+javascript, project management,32
+artificial intelligence, javascript,32
+javascript, ssis,32
+excel, mysql,32
+data analytics, natural language processing,31
+stakeholder management, team management,31
+agile, predictive modeling,31
+communication skills, sql,31
+power bi, team management,31
+business analysis, ssrs,31
+excel, javascript,31
+data modeling, microstrategy,31
+statistics, tableau,31
+statistical modeling, statistics,31
+data science, hive,31
+business analysis, mysql,30
+spark, tableau,30
+data science, ssis,30
+artificial intelligence, predictive modeling,30
+mis executive, r,30
+business analysis, waterfall,30
+business intelligence, qlikview,30
+data visualization, oracle,30
+aiml, python,30
+business intelligence, dax,30
+data mining, nosql,30
+artificial intelligence, nosql,30
+data analysis, hive,30
+agile, computer vision,29
+power bi, predictive modeling,29
+data engineering, tableau,29
+data governance, excel,29
+data visualization, natural language processing,29
+data visualization, ssis,29
+java, oracle,29
+data engineering, kafka,29
+azure, hadoop,29
+artificial intelligence, data scientist,29
+data mining, tableau,29
+regression, statistical modeling,29
+azure, business analysis,29
+gcp, power bi,29
+business analysis, data warehousing,29
+gcp, project management,29
+business analysis, statistics,28
+deep learning, javascript,28
+business analysis, javascript,28
+business intelligence, sql server,28
+hadoop, tableau,28
+hadoop, power bi,28
+ssis, tableau,28
+computer vision, gcp,28
+leadership, machine learning,28
+statistical modeling, tableau,28
+azure, data visualization,28
+excel, scrum,28
+python, ssis,27
+aws, data visualization,27
+artificial intelligence, data engineering,27
+gcp, oracle,27
+mysql, scrum,27
+power bi, statistical modeling,27
+data warehousing, snowflake,27
+data modeling, team management,27
+excel, mis executive,27
+looker, r,27
+gcp, statistics,26
+machine learning, ssis,26
+agile, hadoop,26
+artificial intelligence, regression,26
+hadoop, nosql,26
+excel, sql server,26
+python, vba,26
+gcp, hive,26
+aws, business intelligence,26
+power bi, regression,25
+mongodb, python,25
+aws, natural language processing,25
+gcp, scrum,25
+qlik sense, qlikview,25
+leadership, power bi,25
+oracle, tableau,25
+data science, oracle,25
+data engineering, snowflake,25
+data analysis, time series,25
+data scientist, deep learning,25
+business intelligence, nosql,25
+excel, ssrs,24
+etl, scala,24
+artificial intelligence, scala,24
+data governance, spark,24
+deep learning, mysql,24
+data governance, project management,24
+gcp, mysql,24
+data analytics, regression,24
+data visualization, regression,24
+hive, java,24
+data analytics, hive,24
+data visualization, spark,24
+javascript, nosql,24
+data analytics, microstrategy,24
+azure, java,24
+artificial intelligence, leadership,24
+business analysis, qlikview,24
+etl, gcp,24
+c++, scrum,24
+deep learning, devops,23
+redshift, spark,23
+regression, time series,23
+business intelligence, qlik sense,23
+agile, ssrs,23
+requirement gathering, sql,23
+communication skills, python,23
+databricks, power bi,23
+communication skills, project management,23
+deep learning, hadoop,23
+data mining, hadoop,23
+computer vision, predictive modeling,23
+azure, kafka,23
+data analysis, dax,23
+stakeholder management, tableau,23
+project management, tableau,23
+azure, dax,23
+data warehousing, project management,23
+agile, regression,23
+business intelligence, scala,23
+business intelligence, leadership,22
+data governance, data science,22
+kafka, scala,22
+data analysis, requirement gathering,22
+problem solving, sql,22
+data visualization, ssrs,22
+data warehousing, excel,22
+azure, nosql,22
+machine learning, qlikview,22
+databricks, etl,22
+javascript, ssrs,22
+mysql, tableau,22
+c++, oracle,22
+deep learning, statistical modeling,22
+dax, tableau,22
+qlik sense, sql,22
+etl, java,22
+snowflake, tableau,22
+excel, oracle,22
+artificial intelligence, mysql,21
+gcp, java,21
+machine learning, microstrategy,21
+data governance, power bi,21
+excel, predictive modeling,21
+aws, javascript,21
+artificial intelligence, oracle,21
+python, team management,21
+c++, gcp,21
+mysql, spark,21
+azure, oracle,21
+data engineering, hive,21
+regression, statistics,21
+data mining, hive,21
+problem solving, project management,21
+hive, kafka,20
+data modeling, databricks,20
+data warehousing, scrum,20
+artificial intelligence, devops,20
+problem solving, requirement gathering,20
+communication skills, requirement gathering,20
+data mining, ssis,20
+etl, oracle,20
+data analytics, databricks,20
+data mining, scrum,20
+data engineering, deep learning,20
+microstrategy, oracle,20
+data analytics, data scientist,20
+data scientist, spark,20
+data analytics, dax,20
+machine learning, r programming,20
+deep learning, tableau,20
+sql, time series,20
+leadership, team management,19
+business analysis, problem solving,19
+business analysis, regression,19
+agile, data engineering,19
+communication skills, leadership,19
+data warehousing, hadoop,19
+etl, sql server,19
+postgresql, python,19
+devops, scrum,19
+nosql, power bi,19
+aws, mongodb,19
+data scientist, natural language processing,19
+nosql, oracle,19
+data analysis, nlp,18
+mongodb, postgresql,18
+computer vision, data mining,18
+data visualization, javascript,18
+hive, machine learning,18
+computer vision, nlp,18
+data analysis, sql server,18
+business intelligence, data engineering,18
+devops, spark,18
+data modeling, statistical modeling,18
+aws, nlp,18
+c++, nosql,18
+data visualization, dax,18
+data science, etl,18
+c++, data analytics,18
+data mining, data scientist,18
+agile, mongodb,18
+gcp, javascript,18
+sql server, tableau,18
+computer vision, data scientist,18
+aiml, data analytics,18
+data mining, java,18
+data modeling, statistics,18
+data mining, team management,18
+data analytics, sql server,17
+business analysis, predictive modeling,17
+data analysis, mis executive,17
+oracle, sql server,17
+data mining, mongodb,17
+devops, gcp,17
+azure, computer vision,17
+data warehousing, devops,17
+c++, statistics,17
+java, nosql,17
+oracle, spark,17
+deep learning, nosql,17
+redshift, sql,17
+data modeling, stakeholder management,17
+javascript, postgresql,17
+azure, excel,17
+data analytics, snowflake,17
+business intelligence, hadoop,17
+python, time series,17
+etl, hadoop,17
+computer vision, data analytics,17
+mysql, ssrs,17
+deep learning, scala,17
+artificial intelligence, statistical modeling,17
+java, project management,16
+azure, scrum,16
+java, nlp,16
+business intelligence, deep learning,16
+agile, statistics,16
+nosql, scrum,16
+python, scrum,16
+data engineering, predictive modeling,16
+predictive modeling, tableau,16
+data modeling, qlik sense,16
+nosql, project management,16
+gcp, postgresql,16
+data modeling, snowflake,16
+aws, mysql,16
+databricks, scala,16
+leadership, python,16
+data scientist, hadoop,16
+data modeling, sql server,16
+natural language processing, statistical modeling,16
+natural language processing, spark,16
+azure, project management,16
+communication skills, statistics,15
+data mining, spark,15
+data analytics, time series,15
+dax, sql server,15
+javascript, tableau,15
+azure, data governance,15
+data warehousing, stakeholder management,15
+artificial intelligence, scrum,15
+azure, ssrs,15
+etl, mysql,15
+qlik sense, tableau,15
+data mining, ssrs,15
+c++, natural language processing,15
+business analysis, scala,15
+data modeling, hadoop,15
+business analysis, vba,15
+natural language processing, scala,15
+java, natural language processing,15
+scala, ssis,15
+artificial intelligence, business analysis,15
+data warehousing, statistics,15
+problem solving, scrum,15
+etl, excel,15
+aws, databricks,15
+data visualization, qlikview,15
+mysql, natural language processing,15
+etl, machine learning,15
+excel, hadoop,15
+data visualization, problem solving,14
+predictive modeling, team management,14
+data warehousing, ssrs,14
+aws, hive,14
+project management, regression,14
+machine learning, snowflake,14
+agile, hive,14
+data analysis, snowflake,14
+data science, snowflake,14
+data engineering, data mining,14
+c++, mongodb,14
+data analysis, data scientist,14
+dax, ssrs,14
+oracle, ssrs,14
+data modeling, leadership,14
+microstrategy, power bi,14
+power bi, statistics,14
+data analytics, kafka,14
+aws, business analysis,14
+aws, postgresql,13
+aws, statistics,13
+data visualization, qlik sense,13
+data visualization, requirement gathering,13
+data governance, gcp,13
+data analytics, postgresql,13
+data engineering, devops,13
+nlp, power bi,13
+data mining, qlikview,13
+artificial intelligence, hadoop,13
+looker, tableau,13
+aws, excel,13
+power bi, scrum,13
+project management, qlikview,13
+java, kafka,13
+communication skills, power bi,13
+business intelligence, statistical modeling,13
+scrum, ssis,13
+azure, postgresql,13
+mysql, predictive modeling,13
+data governance, scrum,13
+javascript, predictive modeling,13
+data modeling, dax,13
+spark, statistical modeling,13
+business intelligence, postgresql,13
+artificial intelligence, team management,13
+devops, power bi,13
+excel, microstrategy,13
+data governance, etl,13
+snowflake, spark,13
+azure, nlp,13
+tableau, vba,13
+data visualization, java,13
+nlp, regression,12
+data governance, scala,12
+business intelligence, natural language processing,12
+deep learning, r programming,12
+azure, hive,12
+oracle, snowflake,12
+data warehousing, java,12
+data warehousing, nosql,12
+java, power bi,12
+leadership, problem solving,12
+project management, ssrs,12
+predictive modeling, stakeholder management,12
+business intelligence, spark,12
+azure, mysql,12
+azure, deep learning,12
+postgresql, ssis,12
+javascript, regression,12
+data scientist, data visualization,12
+data warehousing, hive,12
+computer vision, data visualization,12
+java, scrum,12
+natural language processing, nosql,12
+microstrategy, tableau,12
+python, r programming,12
+data analytics, mongodb,12
+deep learning, java,12
+data engineering, natural language processing,12
+redshift, snowflake,12
+communication skills, team management,12
+data modeling, java,12
+oracle, time series,12
+hive, oracle,12
+data governance, oracle,12
+data warehousing, sql server,12
+oracle, scala,12
+data modeling, devops,11
+data visualization, leadership,11
+azure, leadership,11
+excel, qlikview,11
+azure, javascript,11
+business analysis, data governance,11
+kafka, sql,11
+databricks, snowflake,11
+gcp, tableau,11
+nlp, predictive modeling,11
+data governance, python,11
+requirement gathering, stakeholder management,11
+data science, r programming,11
+hadoop, mysql,11
+computer vision, java,11
+excel, gcp,11
+data visualization, microstrategy,11
+scala, tableau,11
+computer vision, regression,11
+artificial intelligence, mongodb,11
+computer vision, nosql,11
+data mining, postgresql,11
+problem solving, python,11
+postgresql, scala,11
+computer vision, statistics,11
+data analysis, databricks,11
+nlp, statistical modeling,11
+artificial intelligence, spark,11
+data science, kafka,11
+business analysis, gcp,11
+data visualization, hadoop,11
+data modeling, hive,11
+devops, etl,11
+natural language processing, statistics,11
+aws, predictive modeling,11
+computer vision, javascript,11
+google cloud platform, r,11
+power bi, requirement gathering,11
+business intelligence, data scientist,10
+azure, waterfall,10
+python, qlikview,10
+data visualization, nlp,10
+devops, project management,10
+nosql, postgresql,10
+gcp, mongodb,10
+python, sql server,10
+regression, tableau,10
+data scientist, regression,10
+project management, spark,10
+data modeling, nlp,10
+data engineering, ssis,10
+data analytics, problem solving,10
+data warehousing, redshift,10
+aiml, azure,10
+artificial intelligence, r programming,10
+java, mysql,10
+data modeling, data scientist,10
+business analysis, microstrategy,10
+javascript, power bi,10
+natural language processing, power bi,10
+r programming, sql,10
+devops, scala,10
+data modeling, mongodb,10
+aws, computer vision,10
+power bi, qlik sense,10
+business analysis, postgresql,10
+aws, kafka,10
+excel, qlik sense,10
+postgresql, spark,10
+data warehousing, mysql,10
+data science, dax,10
+aiml, deep learning,10
+tableau, team management,10
+agile, etl,10
+data governance, hadoop,10
+postgresql, scrum,10
+javascript, mongodb,10
+computer vision, data modeling,10
+gcp, nlp,10
+ssrs, tableau,10
+business analysis, snowflake,10
+microstrategy, ssis,10
+data governance, hive,10
+qlikview, stakeholder management,10
+aws, oracle,10
+python, redshift,9
+nlp, statistics,9
+spark, ssis,9
+data warehousing, microstrategy,9
+microstrategy, stakeholder management,9
+data visualization, sql server,9
+python, stakeholder management,9
+data scientist, predictive modeling,9
+communication skills, scrum,9
+business intelligence, snowflake,9
+c++, nlp,9
+oracle, qlikview,9
+gcp, looker,9
+dax, excel,9
+databricks, sql server,9
+java, postgresql,9
+predictive modeling, scala,9
+deep learning, time series,9
+business analysis, java,9
+data scientist, sql,9
+scrum, waterfall,9
+business analysis, c++,9
+javascript, stakeholder management,9
+excel, regression,9
+excel, natural language processing,9
+azure, stakeholder management,9
+business intelligence, regression,9
+aws, ssis,9
+data visualization, hive,9
+hive, nosql,9
+nosql, tableau,9
+agile, qlikview,9
+azure, regression,9
+data engineering, oracle,9
+scala, scrum,9
+data mining, microstrategy,9
+looker, sql,9
+dax, etl,9
+data mining, r programming,9
+natural language processing, time series,9
+gcp, google cloud platform,9
+dax, ssis,9
+data science, ssrs,8
+hadoop, oracle,8
+qlikview, statistical modeling,8
+data engineering, nosql,8
+sql, waterfall,8
+oracle, predictive modeling,8
+data engineering, redshift,8
+excel, postgresql,8
+project management, sql server,8
+data modeling, vba,8
+business analysis, etl,8
+regression, stakeholder management,8
+devops, nosql,8
+data governance, data mining,8
+data warehousing, statistical modeling,8
+deep learning, oracle,8
+c++, predictive modeling,8
+mongodb, scala,8
+computer vision, scala,8
+communication skills, waterfall,8
+microstrategy, scrum,8
+business intelligence, hive,8
+data governance, natural language processing,8
+etl, hive,8
+mongodb, project management,8
+etl, predictive modeling,8
+aws, data mining,8
+devops, oracle,8
+data engineering, data governance,8
+agile, databricks,8
+business analysis, statistical modeling,8
+nosql, statistics,8
+mongodb, natural language processing,8
+data visualization, looker,8
+etl, ssrs,8
+gcp, ssis,8
+predictive modeling, statistics,8
+etl, qlikview,8
+data engineering, data scientist,8
+data scientist, statistical modeling,8
+data governance, statistics,8
+data governance, tableau,8
+gcp, stakeholder management,8
+leadership, stakeholder management,8
+data engineering, sql server,8
+aws, data governance,8
+communication skills, ssis,8
+machine learning, qlik sense,8
+computer vision, sql,8
+data analysis, r programming,8
+qlikview, ssrs,8
+data science, sql server,8
+data warehousing, dax,8
+statistical modeling, time series,8
+data scientist, power bi,8
+ssis, stakeholder management,8
+devops, java,8
+etl, redshift,8
+data governance, stakeholder management,8
+devops, tableau,8
+data warehousing, qlikview,8
+data warehousing, team management,8
+business intelligence, devops,7
+project management, scala,7
+c++, data scientist,7
+hive, tableau,7
+project management, vba,7
+etl, team management,7
+data engineering, project management,7
+data engineering, postgresql,7
+deep learning, leadership,7
+leadership, scala,7
+data governance, predictive modeling,7
+c++, team management,7
+business analysis, natural language processing,7
+postgresql, power bi,7
+data scientist, java,7
+data scientist, tableau,7
+hive, power bi,7
+devops, hadoop,7
+c++, excel,7
+business analysis, spark,7
+excel, spark,7
+business analysis, dax,7
+databricks, ssis,7
+communication skills, javascript,7
+data engineering, leadership,7
+communication skills, data science,7
+snowflake, sql server,7
+communication skills, machine learning,7
+predictive modeling, scrum,7
+c++, hadoop,7
+devops, javascript,7
+azure, team management,7
+deep learning, scrum,7
+natural language processing, scrum,7
+computer vision, scrum,7
+predictive modeling, time series,7
+azure, data mining,7
+requirement gathering, waterfall,6
+business analysis, nosql,6
+data analytics, r programming,6
+hadoop, scrum,6
+data engineering, nlp,6
+scala, sql server,6
+communication skills, stakeholder management,6
+hadoop, statistics,6
+communication skills, tableau,6
+google cloud platform, python,6
+python, qlik sense,6
+spark, sql server,6
+spark, statistics,6
+aws, project management,6
+devops, excel,6
+project management, waterfall,6
+gcp, team management,6
+data science, qlik sense,6
+scrum, team management,6
+data warehousing, predictive modeling,6
+deep learning, ssis,6
+microstrategy, mysql,6
+sql server, vba,6
+data warehousing, databricks,6
+data scientist, mysql,6
+data mining, time series,6
+data governance, ssis,6
+data governance, java,6
+mongodb, power bi,6
+java, snowflake,6
+excel, scala,6
+deep learning, project management,6
+agile, nlp,6
+azure, qlikview,6
+etl, kafka,6
+natural language processing, postgresql,6
+databricks, nosql,6
+c++, r programming,6
+business intelligence, java,6
+power bi, r programming,6
+postgresql, project management,6
+aws, team management,6
+r programming, regression,6
+devops, google cloud platform,6
+artificial intelligence, ssis,6
+data visualization, snowflake,6
+etl, postgresql,6
+power bi, waterfall,6
+databricks, machine learning,6
+data science, microstrategy,6
+business analysis, data engineering,6
+looker, python,6
+databricks, redshift,6
+problem solving, scala,6
+mysql, sql server,6
+gcp, snowflake,6
+etl, nosql,6
+computer vision, mysql,6
+scala, statistics,6
+hive, redshift,6
+data governance, mysql,6
+scrum, tableau,6
+oracle, stakeholder management,6
+data science, postgresql,6
+computer vision, spark,6
+data engineering, ssrs,6
+mongodb, oracle,6
+aiml, c++,6
+regression, scala,5
+hive, mysql,5
+business intelligence, problem solving,5
+natural language processing, project management,5
+data visualization, mongodb,5
+gcp, regression,5
+data analytics, qlik sense,5
+data mining, etl,5
+data scientist, hive,5
+business analysis, hadoop,5
+regression, spark,5
+data governance, nosql,5
+gcp, kafka,5
+problem solving, statistics,5
+kafka, machine learning,5
+devops, kafka,5
+data visualization, r programming,5
+data engineering, excel,5
+data analysis, qlik sense,5
+oracle, team management,5
+requirement gathering, tableau,5
+data analysis, looker,5
+oracle, qlik sense,5
+data visualization, team management,5
+data governance, ssrs,5
+looker, power bi,5
+kafka, power bi,5
+scala, snowflake,5
+mongodb, scrum,5
+javascript, natural language processing,5
+mysql, team management,5
+data engineering, mysql,5
+scrum, ssrs,5
+communication skills, data modeling,5
+scala, team management,5
+requirement gathering, ssrs,5
+microstrategy, ssrs,5
+data warehousing, leadership,5
+java, regression,5
+data warehousing, qlik sense,5
+c++, leadership,5
+mongodb, predictive modeling,5
+etl, project management,5
+postgresql, ssrs,5
+leadership, regression,5
+scala, statistical modeling,5
+data visualization, devops,5
+data modeling, problem solving,4
+javascript, spark,4
+data science, vba,4
+data visualization, postgresql,4
+problem solving, team management,4
+hadoop, team management,4
+azure, problem solving,4
+scrum, spark,4
+data governance, qlikview,4
+hadoop, r programming,4
+nosql, ssis,4
+communication skills, data visualization,4
+nosql, regression,4
+aws, statistical modeling,4
+excel, nosql,4
+excel, requirement gathering,4
+aws, scrum,4
+leadership, oracle,4
+etl, nlp,4
+stakeholder management, statistics,4
+computer vision, project management,4
+devops, stakeholder management,4
+business analysis, qlik sense,4
+agile, qlik sense,4
+project management, qlik sense,4
+mysql, statistical modeling,4
+data governance, devops,4
+mongodb, sql server,4
+requirement gathering, vba,4
+mis executive, vba,4
+business analysis, nlp,4
+data visualization, mis executive,4
+databricks, gcp,4
+c++, postgresql,4
+databricks, devops,4
+aws, communication skills,4
+postgresql, statistics,4
+power bi, redshift,4
+problem solving, spark,4
+nosql, snowflake,4
+etl, stakeholder management,4
+etl, statistical modeling,4
+java, predictive modeling,4
+data warehousing, requirement gathering,4
+excel, java,4
+kafka, postgresql,4
+hive, scrum,4
+artificial intelligence, microstrategy,4
+databricks, oracle,4
+problem solving, stakeholder management,4
+power bi, problem solving,4
+computer vision, data engineering,4
+computer vision, time series,4
+predictive modeling, ssis,4
+communication skills, data scientist,4
+scrum, statistics,4
+excel, nlp,4
+computer vision, mongodb,4
+statistics, time series,4
+communication skills, predictive modeling,4
+kafka, natural language processing,4
+excel, hive,4
+leadership, scrum,4
+business intelligence, computer vision,4
+gcp, qlikview,4
+databricks, dax,4
+data mining, vba,4
+nlp, tableau,4
+qlikview, ssis,4
+regression, team management,4
+natural language processing, oracle,4
+deep learning, hive,4
+leadership, statistics,4
+aiml, time series,4
+agile, kafka,4
+data analytics, google cloud platform,4
+agile, google cloud platform,4
+computer vision, statistical modeling,4
+nosql, time series,4
+devops, natural language processing,4
+communication skills, devops,4
+azure, communication skills,4
+postgresql, predictive modeling,4
+computer vision, power bi,4
+azure, qlik sense,4
+microstrategy, vba,4
+business intelligence, vba,4
+c++, hive,4
+artificial intelligence, time series,4
+data warehousing, nlp,4
+data engineering, statistics,4
+hive, nlp,4
+hive, statistical modeling,4
+snowflake, vba,4
+data visualization, databricks,4
+predictive modeling, spark,4
+data scientist, scala,4
+computer vision, devops,4
+google cloud platform, machine learning,4
+mysql, statistics,4
+data scientist, devops,4
+etl, statistics,4
+data analytics, looker,4
+data modeling, looker,4
+data analysis, google cloud platform,4
+aiml, java,4
+databricks, excel,4
+artificial intelligence, google cloud platform,4
+data warehousing, kafka,4
+data engineering, data visualization,4
+data warehousing, waterfall,4
+gcp, time series,4
+nlp, spark,4
+microstrategy, postgresql,4
+agile, statistical modeling,4
+aws, leadership,4
+aiml, spark,4
+data governance, team management,4
+data scientist, project management,4
+spark, time series,4
+data modeling, regression,4
+data modeling, r programming,4
+nlp, team management,4
+deep learning, mongodb,4
+data science, databricks,4
+data scientist, time series,4
+c++, devops,4
+communication skills, regression,4
+mysql, nlp,4
+machine learning, vba,4
+aws, data scientist,4
+data modeling, kafka,4
+hadoop, postgresql,4
+nlp, time series,4
+ssrs, vba,4
+qlikview, spark,4
+nlp, project management,4
+nlp, vba,4
+statistical modeling, vba,4
+hive, mongodb,4
+agile, snowflake,4
+ssis, statistical modeling,4
+azure, data scientist,4
+machine learning, sql server,4
+deep learning, team management,4
+data warehousing, javascript,4
+natural language processing, team management,4
+artificial intelligence, snowflake,4
+tableau, waterfall,4
+mysql, snowflake,4
+devops, waterfall,4
+aiml, statistical modeling,4
+google cloud platform, sql,4
+aiml, nosql,4
+microstrategy, mongodb,4
+statistical modeling, team management,4
+databricks, tableau,4
+computer vision, team management,4
+devops, mongodb,3
+business analysis, sql server,3
+c++, data warehousing,3
+mongodb, spark,3
+c++, regression,3
+data engineering, regression,3
+postgresql, team management,3
+data analysis, waterfall,3
+leadership, predictive modeling,3
+mysql, regression,3
+c++, ssis,3
+c++, power bi,3
+mis executive, power bi,3
+dax, vba,3
+javascript, statistics,3
+requirement gathering, sql server,3
+java, statistics,3
+agile, problem solving,3
+dax, python,3
+redshift, tableau,3
+java, tableau,3
+team management, waterfall,3
+oracle, regression,3
+data warehousing, deep learning,3
+gcp, predictive modeling,3
+problem solving, tableau,3
+data warehousing, mongodb,3
+data mining, qlik sense,3
+nosql, ssrs,3
+machine learning, ssrs,3
+python, ssrs,3
+artificial intelligence, postgresql,3
+redshift, scala,3
+communication skills, gcp,3
+machine learning, problem solving,3
+deep learning, excel,3
+scala, ssrs,3
+hadoop, leadership,3
+requirement gathering, team management,3
+artificial intelligence, requirement gathering,3
+databricks, hadoop,3
+postgresql, tableau,3
+project management, statistics,3
+leadership, requirement gathering,3
+communication skills, nlp,3
+excel, snowflake,3
+communication skills, vba,3
+postgresql, sql server,3
+etl, scrum,3
+data mining, sql server,3
+data science, problem solving,3
+c++, time series,3
+hadoop, looker,3
+kafka, tableau,3
+aws, sql server,3
+qlik sense, statistical modeling,3
+problem solving, vba,3
+kafka, snowflake,3
+leadership, waterfall,3
+data governance, snowflake,3
+data visualization, vba,3
+communication skills, data mining,3
+azure, statistics,3
+data science, qlikview,3
+nlp, snowflake,3
+nosql, predictive modeling,3
+mysql, qlikview,3
+java, mongodb,3
+etl, microstrategy,3
+qlikview, scrum,2
+data engineering, team management,2
+r programming, ssis,2
+databricks, ssrs,2
+ssis, team management,2
+microstrategy, project management,2
+kafka, mysql,2
+requirement gathering, statistics,2
+java, sql server,2
+data analytics, mis executive,2
+mongodb, statistics,2
+business intelligence, time series,2
+hive, project management,2
+java, team management,2
+dax, nosql,2
+mongodb, qlikview,2
+c++, stakeholder management,2
+agile, sql server,2
+javascript, team management,2
+javascript, leadership,2
+postgresql, waterfall,2
+machine learning, waterfall,2
+aws, dax,2
+devops, sql server,2
+kafka, waterfall,2
+java, waterfall,2
+databricks, java,2
+hadoop, waterfall,2
+artificial intelligence, kafka,2
+c++, waterfall,2
+c++, kafka,2
+azure, c++,2
+databricks, problem solving,2
+hadoop, snowflake,2
+leadership, tableau,2
+etl, problem solving,2
+hive, snowflake,2
+hive, sql server,2
+javascript, sql server,2
+redshift, sql server,2
+aws, problem solving,2
+postgresql, statistical modeling,2
+data engineering, problem solving,2
+data governance, problem solving,2
+devops, mysql,2
+natural language processing, r programming,2
+mis executive, oracle,2
+java, problem solving,2
+nosql, sql server,2
+team management, vba,2
+artificial intelligence, waterfall,2
+data warehousing, problem solving,2
+leadership, ssis,2
+r programming, statistics,2
+ssis, statistics,2
+etl, leadership,2
+java, r programming,2
+nosql, qlik sense,2
+data scientist, excel,2
+data warehousing, regression,2
+aiml, business analysis,2
+leadership, snowflake,2
+devops, statistics,2
+aws, qlikview,2
+communication skills, data engineering,2
+nosql, qlikview,2
+nosql, problem solving,2
+gcp, statistical modeling,2
+devops, nlp,2
+dax, java,2
+java, ssrs,2
+aws, c++,2
+dax, qlikview,2
+looker, snowflake,2
+aws, google cloud platform,2
+nosql, team management,2
+business intelligence, mongodb,2
+aws, regression,2
+qlik sense, snowflake,2
+mysql, redshift,2
+data modeling, natural language processing,2
+looker, sql server,2
+hadoop, sql server,2
+business analysis, redshift,2
+dax, postgresql,2
+communication skills, etl,2
+aws, r programming,2
+etl, vba,2
+aws, time series,2
+devops, team management,2
+hive, team management,2
+devops, regression,2
+mysql, vba,2
+problem solving, regression,2
+etl, qlik sense,2
+data modeling, time series,2
+leadership, spark,2
+devops, hive,2
+data warehousing, postgresql,2
+qlikview, snowflake,2
+databricks, scrum,2
+business analysis, mis executive,2
+mis executive, sql server,2
+scrum, snowflake,2
+communication skills, java,2
+databricks, kafka,2
+etl, requirement gathering,2
+hadoop, problem solving,2
+hive, problem solving,2
+data analytics, redshift,2
+hadoop, redshift,2
+business intelligence, looker,2
+data engineering, javascript,2
+communication skills, data warehousing,2
+etl, looker,2
+computer vision, ssis,2
+business intelligence, databricks,2
+hadoop, ssis,2
+azure, predictive modeling,2
+devops, time series,2
+leadership, statistical modeling,2
+gcp, problem solving,2
+azure, time series,2
+mongodb, tableau,2
+java, vba,2
+predictive modeling, vba,2
+requirement gathering, ssis,2
+artificial intelligence, etl,2
+data warehousing, looker,2
+aiml, data mining,1
+business analysis, mongodb,1
+data governance, postgresql,1
+data analysis, kafka,1
+data scientist, statistics,1
+javascript, scala,1
+aiml, data scientist,1
+oracle, requirement gathering,1
+aiml, aws,1
+statistics, vba,1
+communication skills, qlik sense,1
+communication skills, oracle,1
+communication skills, sql server,1
+kafka, oracle,1
+communication skills, dax,1
+dax, mysql,1
+mis executive, sql,1
+java, looker,1
+communication skills, hadoop,1
+aws, stakeholder management,1
+python, waterfall,1
+devops, postgresql,1
+devops, ssis,1
+devops, snowflake,1
+deep learning, postgresql,1
+artificial intelligence, data warehousing,1
+dax, oracle,1
+data mining, problem solving,1
+java, stakeholder management,1
+snowflake, ssrs,1
+snowflake, ssis,1
+databricks, qlik sense,1
+snowflake, time series,1
+snowflake, statistical modeling,1
+regression, snowflake,1
+data mining, snowflake,1
+data engineering, google cloud platform,1
+artificial intelligence, communication skills,1
+artificial intelligence, problem solving,1
+communication skills, computer vision,1
+communication skills, natural language processing,1
+computer vision, leadership,1
+computer vision, problem solving,1
+leadership, natural language processing,1
+natural language processing, problem solving,1
+leadership, nosql,1
+leadership, vba,1
+business intelligence, requirement gathering,1
+agile, dax,1
+javascript, problem solving,1
+azure, mongodb,1
+agile, redshift,1
+postgresql, qlikview,1
+javascript, qlikview,1
+problem solving, sql server,1
+communication skills, mis executive,1
+devops, requirement gathering,1
+business analysis, hive,1
+dax, snowflake,1
+data governance, waterfall,1
+google cloud platform, spark,1
+machine learning, redshift,1
+hadoop, statistical modeling,1
+hadoop, regression,1
+hadoop, predictive modeling,1
+postgresql, redshift,1
+oracle, redshift,1
