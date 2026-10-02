@@ -1,6 +1,6 @@
 # Naukri Job Postings Analysis: Data Analyst & Data Scientist Roles in India
 
-**Data Scientist and Hybrid roles carry a median disclosed salary roughly 2x that of Analyst and Other Data Role postings despite largely overlapping skill requirements.** 
+**Data Scientist and Hybrid roles carry disclosed salary ranges roughly 2x that of Analyst and Other Data Role postings despite largely overlapping skill requirements.** 
 
 ``` text
 This project analyzes 62,468 deduplicated Naukri.com job postings to understand how India's Data & AI job market varies by role type, compensation, skills, and geography.
